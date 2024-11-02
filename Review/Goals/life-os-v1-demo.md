@@ -15,7 +15,7 @@ Target: 100
 banner: https://res.cloudinary.com/difh5ajzd/image/upload/v1720972960/goal1_jwcljb.jpg
 banner_y: 1
 created: 03-07-2024, 22:39:55
-updated: 02-11-2024, 00:59:28
+updated: 02-11-2024, 12:59:26
 ---
 
 # Create Life OS V1

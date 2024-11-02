@@ -13,7 +13,7 @@
       "refreshDataview": true,
       "autoCreate": false,
       "autoScroll": false,
-      "pin": true,
+      "pin": false,
       "commands": [],
       "alwaysApply": false,
       "hideReleaseNotes": false

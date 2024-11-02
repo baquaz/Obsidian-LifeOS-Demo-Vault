@@ -15,7 +15,7 @@ banner: attachments/drums-final-boss.jpg
 banner_y: 0.936
 created: 01-11-2024, 23:02:53
 obsidianUIMode: preview
-updated: 02-11-2024, 00:33:04
+updated: 02-11-2024, 12:59:44
 ---
 
 # Toxicity 🥁 

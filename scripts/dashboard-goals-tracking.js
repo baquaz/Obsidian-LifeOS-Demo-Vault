@@ -6,7 +6,7 @@ let goals = dv.pages('"Review/Goals"')
         return dateA - dateB;
     });  // Sort by the 'created' date
 
-// Function to parse the 'created' field (from front matter) into a JavaScript date object
+// Function to parse the 'created' field (from frontmatter) into a JavaScript date object
 function parseDate(dateString) {
   if (!dateString) return new Date(0);  // Return a very old date if the string is missing
 

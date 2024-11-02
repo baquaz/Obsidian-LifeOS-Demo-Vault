@@ -8,7 +8,7 @@ banner_x: 0.5
 banner_y: 0.604
 created: 11.08.2024, 17:23:13
 obsidianUIMode: preview
-updated: 02-11-2024, 11:22:54
+updated: 02-11-2024, 12:59:30
 ---
 
 > [!multi-column]
@@ -28,7 +28,7 @@ let goals = dv.pages('"Review/Goals"')
         return dateA - dateB;
     });  // Sort by the 'created' date
 
-// Function to parse the 'created' field (from front matter) into a JavaScript date object
+// Function to parse the 'created' field (from frontmatter) into a JavaScript date object
 function parseDate(dateString) {
   if (!dateString) return new Date(0);  // Return a very old date if the string is missing
 
