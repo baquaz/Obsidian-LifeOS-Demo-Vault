@@ -1,0 +1,67 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 0.2,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "plugins": {
+      "obsidian-banners": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "obsidian-dynamic-background": {
+        "startupType": "short"
+      },
+      "enlightenment-obsidian": {
+        "startupType": "disabled"
+      },
+      "obsidian-view-mode-by-frontmatter": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "disabled"
+      },
+      "heatmap-calendar": {
+        "startupType": "instant"
+      },
+      "obsidian-hider": {
+        "startupType": "disabled"
+      },
+      "homepage": {
+        "startupType": "instant"
+      },
+      "js-engine": {
+        "startupType": "instant"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "instant"
+      },
+      "periodic-notes": {
+        "startupType": "instant"
+      },
+      "quickadd": {
+        "startupType": "disabled"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "update-time-on-edit": {
+        "startupType": "instant"
+      },
+      "new-goal-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      }
+    }
+  }
+}

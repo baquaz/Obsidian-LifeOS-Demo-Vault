@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "21d93dc59edbd607",
+    "type": "split",
+    "children": [
+      {
+        "id": "2873f3958420ecd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ee398740ad42b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cba7c73ac9a9f18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa12d17ed3ba92f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8944d2b026b302",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6da62561a443a49e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "493d2a3905525ad2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b2e658b3e649e18a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5d9eac0b2c6f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c91ec15ff303e096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da812e509fb45218",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d44d3f3b3bbf1b15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0201e8e52bd0cede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e888867f6ba4fd0",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d00e048a42981d7",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "80b84e72b0932400",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "enlightenment-obsidian:Cycle through Enlightenment modes (off, across all panes, or the active pane only)": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
+    }
+  },
+  "active": "e5ee398740ad42b3",
+  "lastOpenFiles": [
+    "1716147085-todo.md",
+    "1717099534-nvim-plugins-info.md",
+    "1716732504-nvim-keys.md",
+    "1716732504-nvim-keys.md~",
+    "1717099534-nvim-plugins-info.md~",
+    "1716403990-vim-keys.md",
+    "templates/1716732504-keys-cheatsheet.md",
+    "templates/1716144600-todo.md",
+    "1717334247-my-git-notes.md",
+    "1716242649-todo-legend.md",
+    "1717603358-git-bare-repo.md",
+    "1716147085-todo.md~",
+    "1717603358-git-bare-repo.md~",
+    "1717258583-swift-basics.md",
+    "attachments/bg.jpg",
+    "attachments",
+    "folder bez nazwy",
+    "bg.jpg",
+    "1717334247-my-git-notes.md~",
+    "1717364446-php-brew-info.md",
+    "Swift Basics.md",
+    "1716746142-nvim-keys.md",
+    "1717021082-optional-test.md~",
+    "1716746142-nvim-keys.md~",
+    "1717020892-SVUL.md",
+    "1717020226-test.md",
+    "1717008935-dating.md",
+    "1717009231-t1.md",
+    "1717017454-missing.md",
+    "1717017303-tete.md",
+    "1717017281-KAGN.md",
+    "1717015354-OJAA.md",
+    "testtt.md",
+    "1717011587-AMJX.md",
+    "1717011346-HUIW.md",
+    "1717011475-SCTA.md",
+    "1717011305-LFZO.md~",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,7 @@
+
+/* Target links within dataview tables inside the markdown-reading-view */
+.markdown-reading-view table td span a {
+    white-space: nowrap !important;
+    display: inline-block;
+}
+

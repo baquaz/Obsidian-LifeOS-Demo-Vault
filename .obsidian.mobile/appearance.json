@@ -1,0 +1,21 @@
+{
+  "accentColor": "#f99624",
+  "cssTheme": "GitHub Theme",
+  "baseFontSizeAction": false,
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "translucency": true,
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "metabind-custom",
+    "Minimal Theme cards",
+    "checkbox-styles",
+    "dv-table-no-wrap",
+    "light-mode-link-color"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/main-dashboard.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main-dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cba7c73ac9a9f18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa12d17ed3ba92f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6da62561a443a49e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4bdf664d05294ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "159efbe55d1c3f22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b2e658b3e649e18a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5d9eac0b2c6f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bf2552467cae344",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Review/main-dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from main-dashboard"
+            }
+          },
+          {
+            "id": "a9f85b84fde85c3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Review/main-dashboard.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of main-dashboard"
+            }
+          },
+          {
+            "id": "b45938802b7403b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open this week": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Review/main-dashboard.md",
+    "Review/habit-tracker.md",
+    "Review/Daily/2024-11-25.md",
+    "Review/Daily/2024-11-24.md",
+    "Review/Goals/testme.md",
+    "Review/goals-dashboard.md",
+    "Review/Goals/knowledge-base-notes.md",
+    "Review/Goals/life-os-v1-demo.md",
+    "excalidraw-page.jpg",
+    "Review/Goals/life-os-v1-demo.svg",
+    "attachments/demo-preview/plugins-lazy-loading.png",
+    "attachments/demo-preview/plugins-startup-times-button.png",
+    "attachments/demo-preview/plugins-startup-time.png",
+    "attachments/demo-preview/startup-times-button.png",
+    "attachments/demo-preview/lazy-plugin-loading.png",
+    "Review/Goals/Awesome Goal.md",
+    "attachments/demo-preview/new-drawing-json-fadeout.png",
+    "Review/Goals/Awesome Goal.svg",
+    "Excalidraw/my-git-notes 2024-11-17 15.58.26.md",
+    "Excalidraw/my-git-notes 2024-11-17 15.58.26.svg",
+    "my-git-notes.md",
+    "nvim-plugins-info.md",
+    "Excalidraw/Drawing 2024-11-16 21.06.07.md",
+    "Excalidraw/Drawing 2024-11-17 16.00.42.md",
+    "templates/lifeos-goal.md",
+    "Excalidraw/Drawing 2024-11-17 12.56.09.md",
+    "Untitled.md",
+    "Review/Daily/2024-11-17.md",
+    "Review/Daily/2024-11-11.md",
+    "Review/Daily/2024-11-18.md",
+    "prompt-auto-map-lifeos.md",
+    "todo.md",
+    "templates/lifeos-weekly.md",
+    "templates/lifeos-daily.md",
+    "todo-legend.md",
+    "todo.md~",
+    "README.md",
+    "templates/lifeos-weekly.md~",
+    "templates/lifeos-goal.md~",
+    "templates/lifeos-daily.md~",
+    "Review/Goals/life-os-v1-demo.md~",
+    "drawing.json~",
+    "drawing.json",
+    "Review/Goals/test2.md~",
+    "Excalidraw",
+    "Review/goals-dashboard.md~",
+    "Untitled.canvas"
+  ]
+}

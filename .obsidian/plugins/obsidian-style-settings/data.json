@@ -1,0 +1,14 @@
+{
+  "CG@@CG-workspace-background": false,
+  "CG@@CG-workspace-background-image": "CG-workspace-background-image-custom",
+  "CG@@CG-workspace-background-blur": 12,
+  "CG@@CG-workspace-background-workspace-slider": 0.26,
+  "CG@@CG-workspace-background-brightness": 2.04,
+  "CG@@CG-workspace-background-saturation": 2.19,
+  "CG@@CG-workspace-background-contrast": 152,
+  "id@@headers-one-color": false,
+  "id@@colorblind_protan-deutan": false,
+  "id@@colorblind_tritan": false,
+  "id@@h1-underline": false,
+  "id@@callout-on": true
+}
