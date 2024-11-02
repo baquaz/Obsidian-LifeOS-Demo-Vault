@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/main-dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "main-dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cba7c73ac9a9f18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa12d17ed3ba92f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8944d2b026b302",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6da62561a443a49e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "493d2a3905525ad2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b2e658b3e649e18a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5d9eac0b2c6f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c91ec15ff303e096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1727017175-keys-xcode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1727017175-keys-xcode"
+            }
+          },
+          {
+            "id": "da812e509fb45218",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1727017175-keys-xcode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1727017175-keys-xcode"
+            }
+          },
+          {
+            "id": "d44d3f3b3bbf1b15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0201e8e52bd0cede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Review/main-dashboard.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of main-dashboard"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": true,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "Obsidian-LifeOS-Demo-Vault/README.md",
+    "Obsidian-LifeOS-Demo-Vault/LICENSE",
+    "Obsidian-LifeOS-Demo-Vault",
+    "attachments/demo-preview/demo-main-dashboard.png",
+    "attachments/demo-preview/demo-habit-tracker.png",
+    "attachments/demo-preview",
+    "Review/Goals/life-os-v1-demo.md",
+    "Review/main-dashboard.md",
+    "Review/Goals/knowledge-base-notes.md",
+    "Review/habit-tracker.md",
+    "demo-main-dashboard.png",
+    "demo-habit-tracker.png",
+    "attachments/demo-main-dashboard.png",
+    "attachments/demo-habit-tracker.png",
+    "todo.md",
+    "Review/habits-list.md",
+    "Review/goal-dashboard.md",
+    "Review/Goals/drums-independence-30day.md",
+    "Review/Goals/drums-toxicity.md",
+    "Review/Goals/drums-independence.md",
+    "Review/Goals/drumming-independence.md",
+    "Review/Goals/drumming-independence-goal.md",
+    "Review/Daily/2024-11-02.md",
+    "keys-xcode.md",
+    "keys-vim.md",
+    "keys-my-nvim.md",
+    "nvim-plugins-info.md",
+    "my-git-notes.md",
+    "Obsidian Commands.md",
+    "nvim-plugins-info.md~",
+    "nvim-keys.md",
+    "1716732504-nvim-keys.md",
+    "todo-legend.md",
+    "attachments/knowledge-base.jpg",
+    "Review/Daily/2024-10-28.md",
+    "Review/Daily/2024-10-27.md",
+    "Review/Daily/2024-11-02.md~",
+    "attachments/drums-final-boss.jpg",
+    "attachments/drums-final-boss-card.jpeg",
+    "templates/lifeos-goal.md~",
+    "my-git-notes.md~",
+    "1717099534-nvim-plugins-info.md~",
+    "keys-nvim.md~",
+    "attachments/bg3-light.jpg",
+    "Untitled.canvas"
+  ]
+}

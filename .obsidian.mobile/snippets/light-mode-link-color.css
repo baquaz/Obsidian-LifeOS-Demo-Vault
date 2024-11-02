@@ -1,0 +1,8 @@
+body.theme-light {
+  --text-accent: #4285f4;
+  --text-accent-hover: #106aff;
+}
+
+body.theme-light a:hover {
+  color: var(--text-accent-hover) !important;
+}
