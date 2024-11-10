@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d11a7785263f85cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "cdcb8b4a5cbd24c5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Review/main-dashboard.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "main-dashboard"
             }
@@ -79,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2e658b3e649e18a",
@@ -164,15 +161,24 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": true,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cdcb8b4a5cbd24c5",
   "lastOpenFiles": [
-    "Review/goal-dashboard.md",
+    "Review/goals-dashboard.md",
+    "Review/Goals/New-goal.md",
+    "templates/_startup_template.md",
+    "scripts/startup-template.js",
+    "templates/lifeos-goal.md",
     "Review/main-dashboard.md",
+    "Review/goal-dashboard.md",
+    "Review/Daily/2024-11-03.md",
+    "Review/Daily/2024-11-04.md",
+    "Review/Goals/drums-independence-30day.md",
+    "Obsidian Commands.md",
     "Review/Goals/knowledge-base-notes.md",
     "Review/Goals/drums-toxicity.md",
     "keys-vim.md",
@@ -180,11 +186,9 @@
     "nvim-plugins-info.md",
     "keys-my-nvim.md",
     "my-git-notes.md",
-    "Obsidian Commands.md",
     "todo.md",
     "todo-legend.md",
     "Review/habits-list.md",
-    "Review/Daily/2024-11-03.md",
     "Review/Weekly/2024-W45.md",
     "Review/Weekly/2024-W44.md",
     "Review/Daily/2024-11-02.md",
@@ -197,17 +201,11 @@
     "attachments/demo-preview/demo-habit-tracker.png",
     "attachments/demo-preview",
     "Review/Goals/life-os-v1-demo.md",
-    "Review/habit-tracker.md",
     "demo-main-dashboard.png",
     "demo-habit-tracker.png",
     "attachments/demo-main-dashboard.png",
     "attachments/demo-habit-tracker.png",
-    "Review/Goals/drums-independence-30day.md",
-    "Review/Goals/drums-independence.md",
-    "Review/Goals/drumming-independence.md",
-    "Review/Goals/drumming-independence-goal.md",
     "nvim-plugins-info.md~",
-    "nvim-keys.md",
     "attachments/knowledge-base.jpg",
     "Review/Daily/2024-11-02.md~",
     "attachments/drums-final-boss.jpg",
@@ -215,7 +213,6 @@
     "templates/lifeos-goal.md~",
     "my-git-notes.md~",
     "1717099534-nvim-plugins-info.md~",
-    "keys-nvim.md~",
     "attachments/bg3-light.jpg",
     "Untitled.canvas"
   ]

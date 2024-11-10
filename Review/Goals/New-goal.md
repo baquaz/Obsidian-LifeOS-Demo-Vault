@@ -9,12 +9,14 @@ List-success: []
 Progress: 0
 StartedDate: ""
 Target: 100
-banner: "attachments/goal2.jpg"
+banner: attachments/goal2.jpg
 banner_y: 0.432
 obsidianUIMode: preview
+created: 10-11-2024, 14:44:54
+updated: 10-11-2024, 14:44:55
 ---
 
-#  <% tp.file.title %>
+#  New-goal
 ```meta-bind
 INPUT[
 text(

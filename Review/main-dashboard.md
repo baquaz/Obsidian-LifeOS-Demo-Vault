@@ -8,7 +8,7 @@ banner_x: 0.5
 banner_y: 0.604
 created: 11.08.2024, 17:23:13
 obsidianUIMode: preview
-updated: 02-11-2024, 12:59:30
+updated: 10-11-2024, 17:00:17
 ---
 
 > [!multi-column]
@@ -59,7 +59,7 @@ function formatDate(date) {
 
 // Render the table with sorted goals
 dv.table(
-  [`[Main Goals](Review/goal-dashboard.md)`, "Deadline", "Progress"],
+  [`[Main Goals](Review/goals-dashboard.md)`, "Deadline", "Progress"],
   goals.map(g => [
     dv.fileLink(g.file.name),
 

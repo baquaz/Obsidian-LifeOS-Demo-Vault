@@ -7,12 +7,12 @@ created: 28.06.2024, 00:14:17
 cssclasses:
   - cards
 obsidianUIMode: preview
-updated: 01-11-2024, 23:05:39
+updated: 04-11-2024, 21:42:31
 ---
 
 `BUTTON[main-dashboard]`
 
-# Annual Goals `BUTTON[create-goal]`
+#  Goals Dashboard `BUTTON[create-goal]`
 
 ``` dataviewjs
 const pages = dv.pages('"Review/Goals"')
@@ -89,6 +89,7 @@ function getProgress(progress, target) {
 ```
 
 [BUTTONS REFERENCE]: # ()
+
 ```meta-bind-button
 id: main-dashboard
 style: primary

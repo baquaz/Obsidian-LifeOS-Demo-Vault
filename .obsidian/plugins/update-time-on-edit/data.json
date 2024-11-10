@@ -51,9 +51,8 @@
     "Review/Daily/18-10-2024.md": "1150e04e52c461e5f8449373e4f22f62aca0b187826f56f1a8972682da1d87e7",
     "Review/Daily/17-10-2024.md": "6ece32ead7c15e1cdcdcf71e1457dfc942bb2a9a86c2a453d17e17332804a549",
     "attachments/bg-source.md": "72d129d9ddfff1cf0b1b5552d763470b29bc848560a5d47f87738bcdc38ec03c",
-    "Review/goal-dashboard.md": "8d782d77a34921d3cec3ae40f925d732e674c615a16df3af9294808d22de1fe7",
     "Review/habits-list.md": "5a5ffe297066de843f255c51d01eb28f0d4f8c5ee184fea3e08cdadb6b8d9aad",
-    "Review/main-dashboard.md": "8e40efd643efa1c5e4f160d20f6939a740e99b02098994900850f8f0f2bd37c9",
+    "Review/main-dashboard.md": "7b1962acda1b55ecf4744ce4dde99599e1779d898aaf08240d5c022f77e1f60d",
     "Review/habit-tracker.md": "de4813521398463e9f1377e0c6dbd2a153c2ecf566b408f2529cdce575faad0e",
     "todo.md": "f77236e45a88d10948cf85fd85c7f829d88dde2248da279b909b7dd9a64dfd1a",
     "todo-legend.md": "265122ba7169ba82c385feee4de1fd96f0adac1a3937ed6711c277813937293e",
@@ -81,8 +80,11 @@
     "keys-my-nvim.md": "cb843f8db7cb771fba8c8ea1f15a86e9b2299431fd15e597d953b4ef66530ed4",
     "Review/Daily/2024-10-28.md": "c4a744cc30b142a746f915a30365e2fdd51f744694637ed441cf8f039c6d748a",
     "Review/Goals/knowledge-base-notes.md": "ab4ba2ac9363ec0a6500548d74633f5b531d2d2bde31060e3c9418192734ee13",
-    "Review/Goals/drums-independence-30day.md": "57af1a57f3144d9c6e33c7899283dc30342b175df1dee7b8884fafb3ce63f6b5",
+    "Review/Goals/drums-independence-30day.md": "f3c844918afe002e43e1cde3a556609074b8cf289b9c241212e5c668da395de4",
     "README.md": "f7edceaaf09bce9edd537f6d93c7379cdbb66fb43027e15f042bf7718b3629ea",
-    "Review/Daily/2024-11-03.md": "a11307e90dea0d7847815d2fff2b3e31a1685f01b6dbb2b41bc2f91cecaa8e92"
+    "Review/Daily/2024-11-03.md": "76bc7a12c084767dc09f787754754a880c6825099d010f7a2481ac272a1e4217",
+    "Review/goals-dashboard.md": "e9bd2737dcada8201bb988d9f5abc2423fae8230a49209e9f24f865607fbd26d",
+    "Review/Daily/2024-11-04.md": "3c13863f5c204472197fdd7eb5f6c1b5654cc8e7e1cf17ff3a71adead0162269",
+    "Review/Goals/New-goal.md": "cb5393a410e8d0b6d87e76ec3f3f07180a4226179bfdd87490698b618798d843"
   }
 }

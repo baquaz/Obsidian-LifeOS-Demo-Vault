@@ -2,13 +2,7 @@
   background: var(--color-red);
 }
 
-.mb-card:has(.mb-input-type-list.info) {
-  background: rgb(2, 122, 255, 0.1);
-}
-.mb-card:has(.mb-input-type-list.info) > h3 {
-  color: rgb(2, 122, 255);
-}
-
+/* Buttons Decorations */
 .light-mode-btn .mb-button-inner {
   background: rgb(211, 219, 227);
 }
@@ -21,6 +15,14 @@
 }
 .dark-mode-btn .mb-button-inner:hover {
   background: rgb(85, 85, 85);
+}
+
+/* List Decorations */
+.mb-card:has(.mb-input-type-list.info) {
+  background: rgb(2, 122, 255, 0.1);
+}
+.mb-card:has(.mb-input-type-list.info) > h3 {
+  color: rgb(2, 122, 255);
 }
 
 .mb-card:has(.mb-input-type-list.success) { 
