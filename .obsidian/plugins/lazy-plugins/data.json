@@ -2,7 +2,7 @@
   "dualConfigs": false,
   "showConsoleLog": false,
   "desktop": {
-    "shortDelaySeconds": 0.5,
+    "shortDelaySeconds": 0.2,
     "longDelaySeconds": 15,
     "delayBetweenPlugins": 40,
     "defaultStartupType": null,
@@ -30,7 +30,7 @@
         "startupType": "instant"
       },
       "obsidian-hider": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "homepage": {
         "startupType": "instant"

@@ -15,7 +15,7 @@ banner: attachments/knowledge-base.jpg
 banner_y: 0.652
 created: 01-11-2024, 20:52:49
 obsidianUIMode: preview
-updated: 17-11-2024, 01:12:55
+updated: 17-11-2024, 15:57:24
 ---
 
 #  Knowledge helper notes
