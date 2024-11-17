@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d11a7785263f85cb",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "cdcb8b4a5cbd24c5",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Review/main-dashboard.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "main-dashboard"
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2e658b3e649e18a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1727017175-keys-xcode.md",
+                "file": "Review/Goals/life-os-v1-demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1727017175-keys-xcode"
+              "title": "Backlinks for life-os-v1-demo"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1727017175-keys-xcode.md",
+                "file": "Review/Goals/life-os-v1-demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1727017175-keys-xcode"
+              "title": "Outgoing links from life-os-v1-demo"
             }
           },
           {
@@ -145,8 +146,7 @@
               "title": "Outline of main-dashboard"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,57 +163,56 @@
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "cdcb8b4a5cbd24c5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Review/goals-dashboard.md",
-    "Review/Goals/New-goal.md",
-    "templates/_startup_template.md",
-    "scripts/startup-template.js",
-    "templates/lifeos-goal.md",
+    "Review/Goals/life-os-v1-demo.md",
+    "prompt-auto-map-lifeos.md",
     "Review/main-dashboard.md",
-    "Review/goal-dashboard.md",
-    "Review/Daily/2024-11-03.md",
-    "Review/Daily/2024-11-04.md",
-    "Review/Goals/drums-independence-30day.md",
-    "Obsidian Commands.md",
-    "Review/Goals/knowledge-base-notes.md",
-    "Review/Goals/drums-toxicity.md",
-    "keys-vim.md",
-    "keys-xcode.md",
-    "nvim-plugins-info.md",
-    "keys-my-nvim.md",
-    "my-git-notes.md",
     "todo.md",
+    "templates/lifeos-weekly.md",
+    "templates/lifeos-goal.md",
+    "templates/lifeos-daily.md",
     "todo-legend.md",
-    "Review/habits-list.md",
-    "Review/Weekly/2024-W45.md",
-    "Review/Weekly/2024-W44.md",
-    "Review/Daily/2024-11-02.md",
+    "todo.md~",
     "README.md",
-    "LICENSE",
-    "Obsidian-LifeOS-Demo-Vault/README.md",
-    "Obsidian-LifeOS-Demo-Vault/LICENSE",
-    "Obsidian-LifeOS-Demo-Vault",
+    "Review/habits-list.md",
+    "Review/habit-tracker.md",
+    "Review/goals-dashboard.md",
+    "Review/Goals/knowledge-base-notes.md",
+    "Obsidian Commands.md",
+    "templates/_startup_template.md",
+    "attachments/lifeos.png",
+    "attachments/knowledge-base.jpg",
+    "attachments/greencity.png",
     "attachments/demo-preview/demo-main-dashboard.png",
     "attachments/demo-preview/demo-habit-tracker.png",
-    "attachments/demo-preview",
-    "Review/Goals/life-os-v1-demo.md",
-    "demo-main-dashboard.png",
-    "demo-habit-tracker.png",
-    "attachments/demo-main-dashboard.png",
-    "attachments/demo-habit-tracker.png",
-    "nvim-plugins-info.md~",
-    "attachments/knowledge-base.jpg",
-    "Review/Daily/2024-11-02.md~",
-    "attachments/drums-final-boss.jpg",
-    "attachments/drums-final-boss-card.jpeg",
+    "attachments/bg.jpg",
+    "attachments/bg-source.md",
+    "attachments/bg2.jpg",
+    "attachments/bg3.jpg",
+    "attachments/bg4.jpg",
+    "attachments/drums-challenge.jpeg",
+    "Review/Goals/draw.md",
+    "templates/lifeos-weekly.md~",
     "templates/lifeos-goal.md~",
-    "my-git-notes.md~",
-    "1717099534-nvim-plugins-info.md~",
-    "attachments/bg3-light.jpg",
+    "Review/Daily/2024-11-11.md",
+    "Review/Daily/2024-11-12.md",
+    "Review/Daily/2024-11-17.md",
+    "templates/lifeos-daily.md~",
+    "Review/Daily/2024-11-04.md",
+    "Review/Goals/life-os-v1-demo.md~",
+    "drawing.json~",
+    "drawing.json",
+    "Excalidraw/Drawing 2024-11-16 21.06.07.md",
+    "Excalidraw/Untitled 2024-11-16 21.02.15.md",
+    "Excalidraw/Drawing 2024-11-16 21.03.01.md",
+    "Untitled.md",
+    "Review/Goals/test2.md~",
+    "Excalidraw",
+    "Review/goals-dashboard.md~",
     "Untitled.canvas"
   ]
 }

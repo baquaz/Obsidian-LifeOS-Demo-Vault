@@ -55,6 +55,12 @@
       },
       "update-time-on-edit": {
         "startupType": "instant"
+      },
+      "new-goal-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
       }
     }
   }

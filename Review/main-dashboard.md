@@ -8,7 +8,7 @@ banner_x: 0.5
 banner_y: 0.604
 created: 11.08.2024, 17:23:13
 obsidianUIMode: preview
-updated: 10-11-2024, 17:00:17
+updated: 17-11-2024, 01:37:43
 ---
 
 > [!multi-column]
@@ -18,7 +18,7 @@ updated: 10-11-2024, 17:00:17
 
 <br>
 
-[GOALS SECTION]: # () 
+<!-- GOALS SECTION -->
  ```dataviewjs
 let goals = dv.pages('"Review/Goals"')
     .filter(g => g.created)  // Ensure the page has a 'created' field
@@ -71,16 +71,10 @@ dv.table(
 );
 ```
 
-[TODO BUTTON]: # ()  
-```meta-bind-button
-style: primary
-label: Open Todos 
-action:
-  type: open 
-  link: "[[todo]]"
-```
+<!-- TODOS BUTTON -->
+`BUTTON[todos]`
 
-[TODO SECTION]: # () 
+<!-- TODOS SECTION -->
 ```dataviewjs
 const todoFile = "todo.md";
 const todoTag = "# TODO";
@@ -169,11 +163,11 @@ ${getStatusEmoji(parent.status)}
 dv.table(["Todo", "Task"], tableData);
 ```
 
-[HABITS BUTTONS]: # ()
+<!-- HABITS BUTTONS -->
 
 `BUTTON[habits]` `BUTTON[habits-log]` 
 
-[HABITS SECTION]: # ()
+<!-- HABITS SECTION -->
 ```dataviewjs
 // Load the habits list from the specified note
 const habitsNote = dv.page('habits-list');
@@ -247,36 +241,30 @@ const tableHeaders = ['Habits', ...habitsList];
 dv.table(tableHeaders, fileRows);
 ```
 
-[PRODUCTIVITY SECTION]: # () 
+<!-- PRODUCTIVITY SECTION -->
 ```dataviewjs
 dv.span("** Productivity **")
 const calendarData = {
-    year: 2024,
-    entries: [],
+  year: 2024, // Adjust as needed
+  entries: [],
 }
 
 //DataViewJS loop
 for (let page of dv.pages('"Review/Daily"')
 .where(p => p.Productivity)) {
-    const date = new Date(page.file.name);
-    const yyyy = date.getFullYear();
-    let mm = date.getMonth() + 1; // Months start at 0!
-    let dd = date.getDate();
-    if (dd < 10) dd = '0' + dd;
-    if (mm < 10) mm = '0' + mm;
-    const formattedDate = yyyy + "-" + mm + '-' + dd;
-
-    //dv.span("<br>" + page.file.name) // for troubleshooting
-    calendarData.entries.push({
-        date: formattedDate,
-        intensity: page.Productivity,
-    })
+  //dv.span("<br>" + page.file.name) // for troubleshooting
+  calendarData.entries.push({
+    date: page.file.name,
+    intensity: page.Productivity,
+    content: await dv.span(`[](${page.file.name})`), //for hover
+  })
 }
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
 
-[BUTTONS REFERENCE]: # () 
+
+<!-- BUTTONS -->
 ```meta-bind-button
 id: daily-note
 label: Daily Note
@@ -330,6 +318,16 @@ actions:
       const pluginID = "obsidian-dynamic-background";
       app.plugins.enablePlugin(pluginID);
       //new Notice(`${pluginID} plugin enabled`);
+```
+
+```meta-bind-button
+id: todos
+style: primary
+label: Open Todos
+hidden: true
+action:
+  type: open 
+  link: "[[todo]]"
 ```
 
 ```meta-bind-button

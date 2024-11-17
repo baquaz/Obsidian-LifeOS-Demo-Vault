@@ -5,7 +5,7 @@ aliases:
 tags:
   - type/todo
 created: 19-05-2024, 23:44:00
-updated: 02-11-2024, 00:36:38
+updated: 17-11-2024, 01:24:44
 ---
 
 > [!info|float-right-small]
@@ -35,16 +35,13 @@ updated: 02-11-2024, 00:36:38
 - [x] Heatmap graphs
 
 ##### Future Upgrade
-- [B] Modules 
+- [i] Modules 
     - [B] Task's calendar
     - [B] Kanban Tasks's View
     - [?] Today's tasks
-    - [B] embedding Excalidraw plugin
 
 
 # Next >
-
-- [i] check out [Excalidraw plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 
 - [<] Watch movie Diuna pt 2 
 

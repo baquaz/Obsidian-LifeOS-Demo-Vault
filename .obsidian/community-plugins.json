@@ -11,5 +11,7 @@
   "update-time-on-edit",
   "heatmap-calendar",
   "lazy-plugins",
-  "js-engine"
+  "js-engine",
+  "obsidian-excalidraw-plugin",
+  "new-goal-plugin"
 ]

@@ -6,7 +6,7 @@
     "format": "YYYY-MM-DD",
     "folder": "Review/Daily",
     "template": "templates/lifeos-daily.md",
-    "enabled": true
+    "enabled": false
   },
   "weekly": {
     "format": "",

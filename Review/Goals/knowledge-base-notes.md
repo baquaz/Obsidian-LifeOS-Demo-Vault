@@ -15,7 +15,7 @@ banner: attachments/knowledge-base.jpg
 banner_y: 0.652
 created: 01-11-2024, 20:52:49
 obsidianUIMode: preview
-updated: 02-11-2024, 12:59:36
+updated: 17-11-2024, 01:12:55
 ---
 
 #  Knowledge helper notes
@@ -45,12 +45,11 @@ INPUT[progressBar(title(Progress), minValue(0), maxValue(100)):Progress]
 ```
 
 # Notes list
-- [R] [Obsidian Command List](Obsidian%20Commands.md)
 - [p] [My Git Notes](my-git-notes.md)
-- [I] [My NVIM Plugins](nvim-plugins-info.md)
-- [k] [keys my NVIM](keys-my-nvim.md)
-- [k] [keys VIM](keys-vim.md)
-- [k] [keys Xcode](keys-xcode.md)
+- [R] [My NVIM Plugins](nvim-plugins-info.md)
+- [k] [my NVIM keys](keys-my-nvim.md)
+- [k] [VIM keys](keys-vim.md)
+- [k] [Xcode keys](keys-xcode.md)
 
 ```meta-bind
 INPUT[

@@ -7,7 +7,7 @@ created: 28.06.2024, 00:14:17
 cssclasses:
   - cards
 obsidianUIMode: preview
-updated: 04-11-2024, 21:42:31
+updated: 13-11-2024, 20:10:59
 ---
 
 `BUTTON[main-dashboard]`
@@ -107,5 +107,5 @@ label: Create New Goal
 hidden: true
 action:
     type: command
-    command: create-new-goal-note
+    command: 'new-goal-plugin:create-new-goal'
 ```

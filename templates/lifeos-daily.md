@@ -1,16 +1,14 @@
 ---
+excalidraw-open-md: true
+excalidraw-plugin: parsed
+habits: []
+obsidianUIMode: preview
 tags:
   - lifeos/daily
-obsidianUIMode: preview
-Workout: 
-Coding: 
-Reading: 
-Productivity: 1
 List-accomplished: []
-List-newtasks: []
-habits: []
+List-next: []
+Productivity: 1
 TextArea-desc2day: ""
-toggledHabits: <%tp.frontmatter.toggledHabits || [] %>
 ---
 
 ## <% moment(tp.file.title, "YYYY-MM-DD").format("DD MMM, YYYY, ddd") %> <% tp.date.now("HH:mm") %>
@@ -65,7 +63,67 @@ INPUT[textArea(placeholder(Description...)):TextArea-desc2day]
 
 
 ```meta-bind
-INPUT[list(title(New Tasks)):List-newtasks]
+INPUT[list(title(Next)):List-next]
 ```
 
+
+<!-- Drawing -->
+# Excalidraw Data
+## Text Elements
+%%
+## Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.7",
+	"elements": [],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 5,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"scrollX": 687,
+		"scrollY": 687.5,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": 20,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "rgba(217, 217, 217, 0.5)",
+			"Regular": "rgba(230, 230, 230, 0.5)"
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "selection",
+			"customType": null,
+			"locked": false,
+			"lastActiveTool": null
+		}
+	},
+	"files": {}
+}
+```
+%%
 
