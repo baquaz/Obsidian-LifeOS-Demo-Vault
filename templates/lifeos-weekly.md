@@ -1,13 +1,13 @@
 ---
+list: []
+obsidianUIMode: preview
 tags:
   - lifeos/weekly
 Health: 0
 Relationship: 0
 Sprituality: 0
-Wealth: 0
-list: []
 TextArea-whatnext: ""
-obsidianUIMode: preview
+Wealth: 0
 ---
 
 ## Week <% tp.file.title.split("-W")[1] %>, <% moment(tp.file.title, "YYYY-[W]ww").format("MMM YYYY") %>

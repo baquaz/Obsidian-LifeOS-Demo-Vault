@@ -8,7 +8,7 @@ banner_x: 0.5
 banner_y: 0.604
 created: 11.08.2024, 17:23:13
 obsidianUIMode: preview
-updated: 17-11-2024, 14:26:55
+updated: 23-11-2024, 18:33:54
 ---
 
 > [!multi-column]

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0402fa6008f96f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d94f0c7018d21a91",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Review/main-dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "main-dashboard"
             }
           }
         ]
@@ -165,8 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d94f0c7018d21a91",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "attachments/demo-preview/plugins-lazy-loading.png",
+    "attachments/demo-preview/plugins-startup-times-button.png",
+    "attachments/demo-preview/plugins-startup-time.png",
+    "attachments/demo-preview/startup-times-button.png",
+    "attachments/demo-preview/lazy-plugin-loading.png",
+    "Review/main-dashboard.md",
     "Review/Goals/Awesome Goal.md",
     "attachments/demo-preview/new-drawing-json-fadeout.png",
     "Review/Goals/Awesome Goal.svg",
@@ -180,13 +190,8 @@
     "Excalidraw/Drawing 2024-11-17 16.00.42.md",
     "Review/Goals/knowledge-base-notes.md",
     "attachments/demo-preview/new-goal-empty-drawing.png",
-    "attachments/demo-preview/new-goal-drawing-link.png",
-    "attachments/demo-preview/new-goal-drawing.png",
-    "Review/main-dashboard.md",
     "Review/goals-dashboard.md",
-    "attachments/demo-preview/new-drawing-json.png",
     "templates/lifeos-goal.md",
-    "attachments/demo-preview/new-drawing.png",
     "Excalidraw/Drawing 2024-11-17 12.56.09.md",
     "Review/Goals/life-os-v1-demo.md",
     "Untitled.md",
