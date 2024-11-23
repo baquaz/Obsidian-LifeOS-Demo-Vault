@@ -28,12 +28,14 @@
     "editor:insert-link",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "obsidian-excalidraw-plugin:toggle-excalidraw-view"
   ],
   "readableLineLength": true,
   "strictLineBreaks": false,
   "defaultViewMode": "preview",
   "livePreview": true,
   "promptDelete": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "mobilePullAction": "command-palette:open"
 }

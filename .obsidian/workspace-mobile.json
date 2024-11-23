@@ -144,18 +144,26 @@
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open this week": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Review/main-dashboard.md",
+    "Review/Goals/life-os-v1-demo.md",
+    "excalidraw-page.jpg",
+    "Review/goals-dashboard.md",
+    "todo.md",
+    "attachments/excalidraw-page.jpg",
+    "Review/Goals/life-os-v1-demo.svg",
+    "excalidraw-page 1.jpg.md",
+    "Review/Goals/excalidraw-page 1.jpg.md",
+    "Review/Goals/knowledge-base-notes.md",
     "Review/Daily/2024-11-04.md",
     "Review/Daily/2024-11-03.md",
-    "Review/main-dashboard.md",
     "Review/Goals/drums-toxicity.md",
     "Review/Goals/drums-independence-30day.md",
-    "Review/Goals/knowledge-base-notes.md",
-    "Review/Goals/life-os-v1-demo.md",
     "Review/goal-dashboard.md",
     "Review/Goals/New-goal.md",
     "Review/Weekly/2024-W44.md",
@@ -164,17 +172,12 @@
     "Review/Daily/2024-10-28.md",
     "Review/habits-list.md",
     "Review/habit-tracker.md",
-    "todo.md",
     "todo-legend.md",
     "1716242649-todo-legend.md",
     "1716147085-todo.md",
     "1718019106-CTSM.md",
     "1717603358-git-bare-repo.md",
     "1717099534-nvim-plugins-info.md",
-    "1716732504-nvim-keys.md",
-    "1716403990-vim-keys.md",
-    "1717334247-my-git-notes.md",
-    "1717258583-swift-basics.md",
     "templates"
   ]
 }

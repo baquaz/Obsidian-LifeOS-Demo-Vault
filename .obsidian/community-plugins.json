@@ -11,7 +11,5 @@
   "heatmap-calendar",
   "js-engine",
   "obsidian-excalidraw-plugin",
-  "new-goal-plugin",
-  "obsidian-hider",
-  "obsidian-dynamic-background"
+  "new-goal-plugin"
 ]
