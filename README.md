@@ -1,8 +1,13 @@
 ---
 created: 24-11-2024, 00:12:52
-updated: 24-11-2024, 00:12:52
+updated: 24-11-2024, 14:19:20
 ---
+
+<img src=".github/demo-readme.png" width="600" style="display: block; margin: auto;">
+
+
 # Obsidian Life Planner Demo Vault
+
 Obsidian Demo Vault presenting automation for daily routines and life goals.
 
 This is the final project of [my article series](https://medium.com/@baquazan/obsidian-life-planner-demo-7466fb8a0f37) published on Medium.
